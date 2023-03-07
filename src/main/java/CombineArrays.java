@@ -21,5 +21,5 @@ public class CombineArrays {
             i++;
         }
         return combine;
-    }
+    }  
 }
